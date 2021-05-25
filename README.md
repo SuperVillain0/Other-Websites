@@ -1,3 +1,3 @@
-# Other-Websites
-Some other websites for some other stuff.
-This is just a repo used for other websites.
+Fuck You
+Here's the website: https://youmustdienoobcoder.netlify.app/
+I wish you perish, becuz i had to make a stupid website for a noob coder for you. DIE!
