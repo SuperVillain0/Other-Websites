@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+body{
+  font-family: 'Poppins', sans-serif;
+  background-image: url(https://www.smartsurvey.co.uk/wp-content/uploads/2020/09/pressing-keys-on-keyboard-with-smiley-faces.jpg);
+  background-size: cover;
+}
+#title{
+  text-align: center;
+  color: gray;
+  padding-top: 4vh;
+}
+#description{
+  text-align: center;
+  font-size: 3.2vh;
+}
+#form-main{
+  margin-left: 23%;
+  margin-right: 23%;
+  padding: 6.5vh 7vh 5vh 7vh;
+  background-color: #3d3d3d;
+  opacity: 0.8;
+}
+#survey-form > label{
+  font-size: 3.3vh;
+  color: white;
+  font-weight: 500;
+}
+#survey-form > input[type=text]{
+  width: 95.5%;
+  height: 5.6vh;
+  font-size: 1.2vw;
+  margin: 1vh 5vh 5vh 0vh !important;
+  color: #3d3d3d;
+  padding: 3px 14px;
+  border: none;
+  border-radius: 3px;
+}
+#dropdown{
+  width: 100% !important;
+  height: 6.5vh !important;
+  font-size: 1.2vw;
+  margin-top: 1vh;
+  margin-bottom: 5vh;
+  padding: 3px 14px;
+  border: none;
+  border-radius: 3px;
+}
+#dropdown > option{
+  color: #3d3d3d;
+  font-size: 1.2vw;
+}
+#survey-form > input[type=radio]{
+  border: none;
+  transform: scale(1.5);
+}
+#input-radio{
+  padding-left: 1.5vh;
+}
+#small-txt{
+  font-size: 2.6vh;
+  padding-left: 2vh;
+}
+#survey-form > input[type=checkbox]{
+  font-size: 1.2vw;
+  transform: scale(1.5);
+  border: none;
+  margin-top: 2vh;
+}
+textarea{
+  width: 100%;
+  height: 18vh;
+  margin-top: 1vh;
+  padding: 12px 12px;;
+  font-size: 1.2vw;
+}
+#submit{
+  width: 100%;
+  height: 8vh;
+  background-color: #49de64;
+  color: white;
+  font-weight: 550;
+  border: none;
+  border-radius: 3px;
+  font-size: 1.2vw;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
