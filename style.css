@@ -1,0 +1,60 @@
+body{
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+}
+#main{
+  background-color: rgb(236, 236, 236);
+}
+.title-h1{
+  text-align: center;
+  font-size: 6vh;
+  color: rgb(36, 36, 36);
+  padding-top: 6vh;
+}
+.title-p{
+  text-align: center;
+  color: rgb(79, 79, 79);
+  font-size: 2.5vh;
+}
+#img-div{
+  background-color: white;
+  margin: 0px 10px 0px 10px;
+}
+#img-caption{
+  font-size: 2.2vh;
+  text-align: center;
+  color: rgb(79, 79, 79);
+  padding-bottom: 1.5vh;  
+}
+#tribute-info > h4{
+  text-align: center;
+  padding-top: 6vh;
+  padding-bottom: 6vh;
+  font-weight: 600;
+  font-size: 3vh;
+}
+.time-line{
+  padding-left: 35%;
+  padding-right: 30%;
+}
+.time-line > li{
+  padding-top: 3.5vh;
+}
+#end-p{
+  padding: 8vh 30% 0px 35%;
+  font-size: 2.5vh;
+  font-style: italic;
+  color: rgb(79, 79, 79);
+}
+#last-p{
+  color: rgb(74, 74, 74)
+}
+#tribute-link{
+  color: rgb(91, 164, 207)
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
